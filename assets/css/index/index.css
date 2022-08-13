@@ -3,6 +3,7 @@
 @import url("/assets/css/banner/banner.css");
 @import url("/assets/css/carrosel/carrosel.css");
 @import url("/assets/css/topicos/topicos.css");
+@import url("/assets/css/contato/contato.css");
 
 :root {
   --cor-de-fundo-escuro: #ebecee;
